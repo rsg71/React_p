@@ -2,7 +2,7 @@
   "name": "reactreview",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rsg71.github.io/React_p/",
+  "homepage": "https://rsg71.github.io/React_p",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.5",
     "@testing-library/react": "^11.1.1",
